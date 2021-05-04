@@ -1,6 +1,6 @@
 # Tree_Test
 
-_Code that get data though an API endpoint, and put all this data into a N-ary Tree and print in console this final Tree.
+_Code that get data through an API endpoint, and put all this data into a N-ary Tree and print in console this final Tree.
 
 ### Deployment
 
